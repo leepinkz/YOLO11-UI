@@ -74,4 +74,7 @@ python main.py
 
 ## 许可证
 
-[添加许可证信息] 
+## 许可证
+
+本项目基于 MIT License 许可协议。  
+详情请查看 [LICENSE](LICENSE) 文件。
