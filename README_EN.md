@@ -64,7 +64,25 @@ python main.py
 
 ## Feature Showcase
 
-[Feature showcase images will be added here]
+### User Interface
+#### Login Interface
+![Login Interface](docs/images/login.png)
+
+#### Registration Interface
+![Registration Interface](docs/images/register.png)
+
+### Detection Features
+#### Object Detection
+![Object Detection Example](docs/images/detection.png)
+
+#### Instance Segmentation
+![Instance Segmentation Example](docs/images/segmentation.png)
+
+#### Pose Estimation
+![Pose Estimation Example](docs/images/pose.png)
+
+#### Image Classification
+![Image Classification Example](docs/images/classification.png)
 
 ## Notes
 
@@ -74,4 +92,4 @@ python main.py
 
 ## License
 
-[Add license information] 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 
