@@ -64,7 +64,25 @@ python main.py
 
 ## 功能展示
 
-[这里将添加功能展示图片]
+### 用户界面
+#### 登录界面
+![登录界面](docs/images/login.png)
+
+#### 注册界面
+![注册界面](docs/images/register.png)
+
+### 检测功能展示
+#### 目标检测
+![目标检测示例](docs/images/detection.png)
+
+#### 实例分割
+![实例分割示例](docs/images/segmentation.png)
+
+#### 姿态估计
+![姿态估计示例](docs/images/pose.png)
+
+#### 图像分类
+![图像分类示例](docs/images/classification.png)
 
 ## 注意事项
 
@@ -74,7 +92,4 @@ python main.py
 
 ## 许可证
 
-## 许可证
-
-本项目基于 MIT License 许可协议。  
-详情请查看 [LICENSE](LICENSE) 文件。
+本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
